@@ -1,4 +1,3 @@
-## Hyein Kim
 Majoring Computer Science and Engineering at Seoul National University
 
 - GitHub: https://github.com/cozitive
